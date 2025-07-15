@@ -41,4 +41,3 @@ if __name__ == "__main__":
     # Save to JSON file
     with open("todo_all_employees.json", "w") as jsonfile:
         json.dump(all_data, jsonfile)
-        
